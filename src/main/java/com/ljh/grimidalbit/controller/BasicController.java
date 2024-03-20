@@ -15,4 +15,5 @@ public class BasicController {
 
         return "basic/text-basic";
     }
+
 }
